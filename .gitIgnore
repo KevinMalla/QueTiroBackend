@@ -1,0 +1,4 @@
+node_modules/
+pruebas/
+package.json
+.env
